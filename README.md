@@ -32,7 +32,7 @@ This repo contain a preconfigured partial stack to let you focus on the data man
 ## Expectations
 
 We estimate the task you must spend on the task to be approximatively 5 hours, however we don't a full solution.
-If you send us a Proof of Concept with documentation to explain how you would continue the work is fine.
+If you send us a Proof of Concept with documentation to explain how you would continue the work it is fine.
 
 With this task, our goals are to:
 * Understand your approch to a real problem.
