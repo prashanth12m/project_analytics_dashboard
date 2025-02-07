@@ -1,0 +1,16 @@
+version: 2
+
+models:
+  - name: monthly_cost_analysis
+    description: "Monthly financial analysis aggregations"
+    columns:
+      - name: month
+        description: "Analysis month"
+      - name: total_amount
+        description: "Total amount (mixed currencies)"
+      - name: departments
+        description: "Count of unique departments"
+      - name: currencies_used
+        description: "List of currencies used in transactions"
+      - name: transaction_count
+        description: "Total number of transactions"

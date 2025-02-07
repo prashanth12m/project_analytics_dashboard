@@ -1,0 +1,16 @@
+version: 2
+
+models:
+  - name: stg_finance_invoices
+    description: "Staged finance invoices with parsed JSON"
+    columns:
+      - name: invoice_date
+        description: "Date of the invoice"
+      - name: currency
+        description: "Currency of the transaction"
+      - name: amount
+        description: "Transaction amount"
+      - name: department
+        description: "Department associated with the transaction"
+      - name: comment
+        description: "Additional transaction details"
